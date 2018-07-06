@@ -3,7 +3,7 @@
 ### Provided nodes:
 * Automation HAT: Output, Relays, Lights
 
-### Unsupported features:
+### Unsupported features:  # Completing this weekend.
 * Analog Inputs
 * Digital Inputs
 * Controlling individual indicator lights on each input/output
